@@ -3,6 +3,7 @@ In this lab, we will explore some ideas in networking using command-line tools o
 
 The lab is for exploration. The assignment suggests some commands to look at and things to try. To complete the assignment, you&rsquo;ll keep a lab notebook explaining what you did and what you noticed.
 
+There are no automated tests for this assignment. Grading will be done based on your lab notebook as of the due date (with any extensions, as applicable).
 
 # Keeping a lab notebook
 
